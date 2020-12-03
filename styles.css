@@ -1,0 +1,30 @@
+body {
+background-color: #eaf6f6;
+
+
+}
+
+hr{
+border-style: dotted none none;
+border-color: orange;
+border-width: 5px;
+width: 5%;
+
+
+}
+h1 {
+    color: #66bfbf;
+}
+
+h3{color: #5eaaa8;
+
+}
+.myimg { 
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+
+
+
+}
+
